@@ -1,7 +1,7 @@
 # STM32 PIL (Processor in the loop) Example
 ## For other sub examples, please visit:
 [Generic - Toggle LED](General/Generic1.md)
-
+[External Mode - LED, PWM, ADC](ExternalMode/ExternalMode.md)
 ## Environment
 * Matlab R2017 x64 for Windows
 * STM32MatTarget_4.4.2_setup.exe [https://github.com/freshhope/STM32_PIL_Example_Simulink/releases/download/v0.1/STM32MatTarget_4.4.2_setup.exe](https://github.com/freshhope/STM32_PIL_Example_Simulink/releases/download/v0.1/STM32MatTarget_4.4.2_setup.exe)
