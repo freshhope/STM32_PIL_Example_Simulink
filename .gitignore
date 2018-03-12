@@ -71,3 +71,8 @@ General/FIRM/Generic1/.script
 *.sct
 *.dep
 *.lst
+stm32_external_mode_stm32/
+*.extSettings
+*.getVersionScript
+*.script
+*.mxproject
